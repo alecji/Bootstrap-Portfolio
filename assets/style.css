@@ -1,0 +1,20 @@
+.navbar{
+    
+    margin-bottom: 0;
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    position: fixed;
+
+}
+
+#about{
+    letter-spacing: 4px;
+}
+
+.about-style{
+    float: right;
+    text-align: left;
+   
+}
+
